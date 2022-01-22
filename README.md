@@ -24,3 +24,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 
 屏蔽BT
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh banall
+
+PagerMaid-Modify
+wget https://raw.githubusercontent.com/Xtao-Labs/PagerMaid-Modify/master/install.sh -O install.sh&& chmod +x install.sh && bash install.sh

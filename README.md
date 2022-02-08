@@ -4,6 +4,7 @@
 ``` bash
 bash <(curl -L -s check.unlock.media) 
 ```
+
 ## XrayR
 ``` bash
 bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
@@ -50,5 +51,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 
 ## PagerMaid-Modify
 ``` bash
-wget https://raw.githubusercontent.com/Xtao-Labs/PagerMaid-Modify/master/install.sh -O install.sh&& chmod +x install.sh && bash install.sh
+wget https://raw.githubusercontent.com/Xtao-Labs/PagerMaid-Modify/master/install.sh -O install.sh && chmod +x install.sh && bash install.sh
 ```

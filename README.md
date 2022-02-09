@@ -53,3 +53,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 ``` bash
 wget https://raw.githubusercontent.com/Xtao-Labs/PagerMaid-Modify/master/install.sh -O install.sh && chmod +x install.sh && bash install.sh
 ```
+
+## N1 openwrt在线升级
+``` bash
+bash <(curl -Lso- https://git.io/Phicomm-n1_update)
+```

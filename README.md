@@ -15,11 +15,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/ma
 bash <(curl -fsSL git.io/warp.sh) wg
 ```
 
-## warp-arm
-``` bash
-wget -O warp.sh https://cdn.jsdelivr.net/gh/missuo/CloudflareWarp/warp-arm64.sh && bash warp.sh
-```
-
 ## 国内三网测速
 ``` bash
 bash <(curl -Lso- https://git.io/Jlkmw)

@@ -10,6 +10,12 @@ bash <(curl -L -s check.unlock.media)
 bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
 ```
 
+## 一键DD
+默认debian 10，root密码MoeClub.org
+``` bash
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh')
+```
+
 ## warp
 ``` bash
 bash <(curl -fsSL git.io/warp.sh) wg

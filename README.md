@@ -26,7 +26,7 @@ bash <(curl -fsSL git.io/warp.sh) wg
 bash <(curl -Lso- https://git.io/Jlkmw)
 ```
 
-## 国内四网回程
+## 国内四网回程（寄了）
 ``` bash
 wget -qO- git.io/autobesttrace | bash
 ```

@@ -18,7 +18,7 @@ bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeCl
 
 ## warp
 ``` bash
-bash <(curl -fsSL git.io/warp.sh) wg
+bash <(curl -fsSL git.io/warp.sh) wgx
 ```
 
 ## 国内三网测速

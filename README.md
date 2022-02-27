@@ -26,18 +26,14 @@ bash <(curl -fsSL git.io/warp.sh) wgx
 bash <(curl -Lso- https://git.io/Jlkmw)
 ```
 
-## 国内四网回程（寄了）
+## 国内四网回程
 ``` bash
 wget -qO- git.io/autobesttrace | bash
 ```
 
 ## 探针
 ``` bash
-wget https://raw.githubusercontent.com/cokemine/ServerStatus-Hotaru/master/status.sh && bash status.sh
-```
-若服务器位于中国大陆建议选择Coding.net仓库
-``` bash
-wget https://cokemine.coding.net/p/hotarunet/d/ServerStatus-Hotaru/git/raw/master/status.sh && bash status.sh
+wget https://raw.githubusercontent.com/cppla/ServerStatus/master/status.sh && bash status.sh
 ```
 
 ## 综合性能测试

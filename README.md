@@ -55,7 +55,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh banall
 ```
 
-## PagerMaid-Modify
+## PagerMaid-Modify（寄了）
 ``` bash
 wget https://raw.githubusercontent.com/Xtao-Labs/PagerMaid-Modify/master/install.sh -O install.sh && chmod +x install.sh && bash install.sh
 ```

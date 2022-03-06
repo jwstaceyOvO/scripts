@@ -16,11 +16,6 @@ debian 11，root密码MoeClub.org
 bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 11 -v 64
 ```
 
-## warp
-``` bash
-bash <(curl -fsSL git.io/warp.sh) wgx
-```
-
 ## 国内三网测速
 ``` bash
 bash <(curl -Lso- https://git.io/Jlkmw)
@@ -49,11 +44,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 ## 屏蔽BT
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh banall
-```
-
-## PagerMaid-Modify（寄了）
-``` bash
-wget https://raw.githubusercontent.com/Xtao-Labs/PagerMaid-Modify/master/install.sh -O install.sh && chmod +x install.sh && bash install.sh
 ```
 
 ## N1 openwrt在线升级

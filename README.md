@@ -13,7 +13,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/ma
 ## 一键DD
 debian 11，root密码
 ``` bash 
-MoeClub.org 
+MoeClub.org
 ```
 ``` bash
 bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 11 -v 64

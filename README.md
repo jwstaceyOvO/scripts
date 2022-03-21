@@ -31,7 +31,7 @@ wget -qO- git.io/autobesttrace | bash
 
 ## 探针
 ``` bash
-wget https://raw.githubusercontent.com/cppla/ServerStatus/master/status.sh && bash status.sh
+wget https://raw.githubusercontent.com/jwstaceyOvO/ServerStatus/master/status.sh && bash status.sh
 ```
 
 ## 综合性能测试

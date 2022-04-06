@@ -29,11 +29,6 @@ bash <(curl -Lso- https://git.io/Jlkmw)
 wget -qO- git.io/autobesttrace | bash
 ```
 
-## 探针
-``` bash
-wget https://raw.githubusercontent.com/jwstaceyOvO/ServerStatus/master/status.sh && bash status.sh
-```
-
 ## 综合性能测试
 ``` bash
 curl -sL yabs.sh | bash

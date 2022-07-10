@@ -5,11 +5,6 @@
 bash <(curl -L -s check.unlock.media) 
 ```
 
-## XrayR
-``` bash
-bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
-```
-
 ## 一键DD
 debian 11，root密码
 ``` bash 
